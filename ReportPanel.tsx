@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { PatientRecord, ComparisonResults, HistoryData } from '../types';
+import { PatientRecord, ComparisonResults, HistoryData } from './types';
 import Gauge from './Gauge';
 import RecompositionBar from './RecompositionBar';
 import EvolutionChart from './EvolutionChart';
