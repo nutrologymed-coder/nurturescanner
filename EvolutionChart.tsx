@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { ResponsiveContainer, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
-import { HistoryData, PatientRecord } from '../types';
+import { HistoryData, PatientRecord } from './types';
 
 interface EvolutionChartProps {
   history: HistoryData | null;

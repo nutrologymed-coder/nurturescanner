@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { PatientRecord } from '../types';
+import { PatientRecord } from './types';
 
 interface InputPanelProps {
   currentRecord: PatientRecord;

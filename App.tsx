@@ -1,9 +1,9 @@
 
 import React, { useState, useEffect, useCallback, useRef } from 'react';
 import { PatientRecord, HistoryData, ComparisonResults } from './types';
-import InputPanel from './components/InputPanel';
-import ReportPanel from './components/ReportPanel';
-import Header from './components/Header';
+import InputPanel from './InputPanel';
+import ReportPanel from './ReportPanel';
+import Header from './Header';
 import html2canvas from 'html2canvas';
 import { jsPDF } from 'jspdf';
 
