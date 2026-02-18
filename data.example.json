@@ -1,0 +1,35 @@
+
+{
+  "records": [
+    {
+      "id": "1700000000000",
+      "name": "Ricardo Antunes",
+      "age": 38,
+      "gender": "M",
+      "date": "2023-11-15",
+      "label": "Avaliação Inicial",
+      "context": "Paciente sedentário, buscando recomposição corporal.",
+      "measurements": {
+        "muscleRight": 32.5,
+        "muscleLeft": 31.8,
+        "fatRight": 22.4,
+        "fatLeft": 23.1
+      }
+    },
+    {
+      "id": "1705000000000",
+      "name": "Ricardo Antunes",
+      "age": 38,
+      "gender": "M",
+      "date": "2024-01-20",
+      "label": "2 Meses de Treino",
+      "context": "Resposta anabólica positiva. Melhoria na densidade muscular.",
+      "measurements": {
+        "muscleRight": 36.2,
+        "muscleLeft": 35.5,
+        "fatRight": 18.2,
+        "fatLeft": 18.8
+      }
+    }
+  ]
+}

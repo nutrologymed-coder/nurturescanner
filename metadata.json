@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Nurture Metabolic Scanner™",
+  "description": "Uma ferramenta clínica premium para análise de composição muscular e de gordura subcutânea via ultrassom, com geração de laudos elegantes e acompanhamento de evolução.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
